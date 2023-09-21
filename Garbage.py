@@ -47,4 +47,4 @@ async def on_message(message):
             await message.channel.send(file=picture)
 
 
-client.run("MTE0NDMyODM0NzEyNDUxNDgzNw.GQw6qY.TO7d75AMF2xKlLCu6NkagvW02okJ9JGOETZSr0")
+client.run(Token)
